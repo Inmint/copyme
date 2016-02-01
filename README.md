@@ -19,12 +19,8 @@ $('button').click(function(){
 });
 </script>
 
-#You can easily understand the coding inside the copyme.js file.
-#You can change the notification or add the css for your alert message by using id 'success-alert'
+You can easily understand the coding inside the copyme.js file.
+You can change the notification or add the css for your alert message by using id 'success-alert'
 
 Example:
 $('#success-alert').css('color','blue');
-     or
-#success-alert{
-  color: blue;
-}
