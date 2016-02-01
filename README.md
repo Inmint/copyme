@@ -14,9 +14,11 @@ Example:
 
 
 <script>
-$('button').click(function(){
-    $('#text1').copyme();
-});
+$(document).ready(function(){
+  $('button').click(function(){
+      $('#text1').copyme();
+  });
+})
 </script>
 
 $('#text1').copyme(); 
