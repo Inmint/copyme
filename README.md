@@ -19,6 +19,12 @@ $('button').click(function(){
 });
 </script>
 
+$('#text1').copyme(); 
+
+text1 is textarea/textfield.
+
+Invoke this under onlick or onchange :)
+
 You can easily understand the coding inside the copyme.js file.
 You can change the notification or add the css for your alert message by using id 'success-alert'
 
