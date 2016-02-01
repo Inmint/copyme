@@ -13,15 +13,13 @@ Example:
 <button id='mine'>COPY</button>
 
 
-<script>
+
 $(document).ready(function(){
   $('button').click(function(){
       $('#text1').copyme();
   });
 })
-</script>
 
-$('#text1').copyme(); 
 
 text1 is textarea/textfield.
 
