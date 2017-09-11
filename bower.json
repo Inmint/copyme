@@ -1,0 +1,12 @@
+{
+  "name": "jquery-copyme",
+  "description": "JQuery wrapper library for easy Clipboard",
+  "version": "1.0.0",
+  "main": ["./copyme.js"],
+  "keywords": ["clipboard","copy","cut","paste","clip","clippy", "jquery"],
+  "license": "https://github.com/inmint/copyme/blob/master/LICENSE",
+  "authors": [{"name":"giriannamalai","url":"https://github.com/giriannamalai/"}],
+  "homepage": "http://www.jqueryscript.net/demo/Copy-Entire-Textarea-To-Clipboard-Using-jQuery-Copyme/",
+  "repository": {"type":"git","url":"https://github.com/inmint/copyme.git"},
+  "location": "git://github.com/inmint/copyme.git"
+}
